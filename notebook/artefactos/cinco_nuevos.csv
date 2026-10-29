@@ -1,0 +1,6 @@
+comentario,esperada,BoW + Naive Bayes,TF-IDF + Naive Bayes,BoW + SVM,TF-IDF + SVM,conf_NB,conf_SVM,acuerdo_NB_SVM,más_confiable
+"Excelente atención en la biblioteca, el personal fue muy amable y rápido.",positiva,positiva,positiva,positiva,positiva,0.4857781226128924,0.368657324486249,sí,NB
+"Pésimo servicio, llevo tres semanas esperando una respuesta y nadie me atiende.",negativa,consulta,consulta,consulta,consulta,0.4724432433758672,0.41709066838843917,sí,NB
+"Qué maravilla, otra vez sin internet en el laboratorio, justo lo que necesitaba.",negativa,consulta,consulta,consulta,negativa,0.3683294226552033,0.3615337514946993,NO,NB
+"xq la inscrip es tan lenta, ntp pero deberian mejorarla!!!",negativa,positiva,negativa,consulta,negativa,0.35096162067747444,0.4157297346100945,sí,SVM
+¿Sera que puedo inscribirme ahora?,consulta,consulta,consulta,consulta,consulta,0.6222551616342594,0.4567977363729101,sí,NB

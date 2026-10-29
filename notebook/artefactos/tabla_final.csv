@@ -1,0 +1,5 @@
+Representación,Clasificador,Accuracy,F1 macro,F1 macro CV (media ± sd),Recall negativa (test)
+BoW,Naive Bayes,0.417,0.385,0.391 ± 0.070,0.5
+TF-IDF,Naive Bayes,0.375,0.347,0.400 ± 0.070,0.375
+BoW,SVM,0.333,0.306,0.386 ± 0.084,0.25
+TF-IDF,SVM,0.458,0.451,0.418 ± 0.068,0.5

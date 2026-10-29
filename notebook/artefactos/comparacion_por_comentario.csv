@@ -1,0 +1,25 @@
+comentario,categoria,pred_NB,pred_SVM,acierta_NB,acierta_SVM,conf_NB,conf_SVM,modelo_que_aplica_mejor
+La conexión a internet del campus permitió trabajar sin interrupciones.,positiva,negativa,negativa,False,False,0.46831024788004066,0.41459241500273897,ninguno
+La biblioteca cierra antes de que terminen las clases de la tarde.,negativa,negativa,negativa,True,True,0.45996293401966154,0.41380912859332625,ambos aciertan
+La aplicación móvil facilita consultar horarios y avisos.,positiva,negativa,negativa,False,False,0.39887211506939874,0.3652002422623209,ninguno
+La impresora de la facultad está fuera de servicio desde hace semanas.,negativa,consulta,consulta,False,False,0.5180997966535325,0.4486229586661701,ninguno
+¿Qué requisitos se necesitan para defender el proyecto de grado?,consulta,consulta,consulta,True,True,0.45484006003916666,0.465704605474946,ambos aciertan
+Las instrucciones para el examen fueron claras desde el inicio.,positiva,negativa,negativa,False,False,0.44185268281454815,0.3854321907986846,ninguno
+¿Cómo puedo reservar un espacio para una reunión de proyecto?,consulta,consulta,consulta,True,True,0.46455124314211765,0.47005251932554254,ambos aciertan
+El laboratorio cuenta con computadoras adecuadas para las actividades.,positiva,negativa,negativa,False,False,0.4184397966590254,0.38682363479133897,ninguno
+¿Qué pasos debo seguir para registrar el tema de investigación?,consulta,consulta,consulta,True,True,0.4519186351312082,0.4452372829193862,ambos aciertan
+Las fechas de evaluación de varias materias coinciden el mismo día.,negativa,negativa,negativa,True,True,0.36483071118927785,0.3843634827240771,ambos aciertan
+La respuesta del área académica llegó después de la fecha límite.,negativa,consulta,negativa,False,True,0.37341573128185224,0.36521011646012846,SVM
+El proyector del aula no funciona y dificulta seguir la explicación.,negativa,negativa,negativa,True,True,0.4076795101885862,0.38789298599008126,ambos aciertan
+¿Qué requisitos debo cumplir para solicitar un certificado de estudios?,consulta,consulta,consulta,True,True,0.5265328460097194,0.348198136435621,ambos aciertan
+La orientación para estudiantes nuevos fue muy útil.,positiva,consulta,positiva,False,True,0.37709468914594074,0.4077921873244203,SVM
+El horario publicado tiene materias programadas a la misma hora.,negativa,consulta,consulta,False,False,0.5322802912408414,0.4349836325835608,ninguno
+El docente aceptó preguntas y explicó nuevamente los puntos difíciles.,positiva,positiva,positiva,True,True,0.43134679949069954,0.37163044345333746,ambos aciertan
+¿Dónde puedo encontrar los reglamentos de evaluación?,consulta,consulta,consulta,True,True,0.40663874965638946,0.44846730065179247,ambos aciertan
+¿Cómo reservo un equipo para utilizar el laboratorio de informática?,consulta,negativa,negativa,False,False,0.40037377722756845,0.3944924989050484,ninguno
+Las aulas están limpias y cuentan con buena iluminación.,positiva,negativa,negativa,False,False,0.46665704448436574,0.3869498537173965,ninguno
+La cafetería ofrece opciones variadas a precios razonables.,positiva,negativa,negativa,False,False,0.4370908638430892,0.40914977154997684,ninguno
+Hay pocos libros disponibles para la materia que estamos cursando.,negativa,consulta,consulta,False,False,0.41838774290830316,0.42960869402026347,ninguno
+¿Cómo se solicita el préstamo de libros para llevar a casa?,consulta,positiva,positiva,False,False,0.4053606172710593,0.3719137840444054,ninguno
+¿Cuál es la fecha límite para entregar la solicitud de beca?,consulta,negativa,negativa,False,False,0.383889198939111,0.409358180394563,ninguno
+No recibí orientación adecuada para elegir las materias del semestre.,negativa,consulta,consulta,False,False,0.5894462915411832,0.47203320439101676,ninguno

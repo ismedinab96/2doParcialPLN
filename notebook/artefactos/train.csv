@@ -1,0 +1,97 @@
+comentario,categoria,n_palabras,n_caracteres,texto_limpio,texto_proc
+¿Cuándo se habilitará el formulario de inscripción?,consulta,7,51,habilitara formulario inscripcion,habilit formulari inscripcion
+¿Cuál es el horario de atención de la biblioteca?,consulta,9,49,horario atencion biblioteca,horari atencion bibliotec
+Los grupos de estudio ayudan a resolver dudas entre compañeros.,positiva,10,63,grupos estudio ayudan resolver dudas compañeros,grup estudi ayud resolv dud compañer
+La evaluación estuvo relacionada con los temas desarrollados en clase.,positiva,10,70,evaluacion relacionada temas desarrollados clase,evalu relacion tem desarroll clas
+La retroalimentación de la tarea explicó cómo corregir los errores.,positiva,10,67,retroalimentacion tarea explico corregir errores,retroaliment tare explic correg error
+La coordinación resolvió el cambio de grupo con rapidez.,positiva,9,56,coordinacion resolvio cambio grupo rapidez,coordin resolvi cambi grup rapidez
+El trámite administrativo exige presentar varias veces los mismos documentos.,negativa,10,77,tramite administrativo exige presentar varias veces mismos documentos,tramit administr exig present vari vec mism document
+¿Cuál es el correo de contacto de la coordinación académica?,consulta,10,60,correo contacto coordinacion academica,corre contact coordin academ
+La rúbrica se entregó después de que presentamos el trabajo.,negativa,10,60,rubrica entrego despues presentamos trabajo,rubric entreg despu present trabaj
+El aula virtual no permite recuperar la contraseña.,negativa,8,51,aula virtual no permite recuperar contraseña,aul virtual no_permit recuper contraseñ
+La plataforma virtual funciona bien y permite entregar tareas sin problemas.,positiva,11,76,plataforma virtual funciona bien permite entregar tareas sin problemas,plataform virtual funcion bien permit entreg tar sin_problem
+¿Dónde se publican las fechas de los exámenes finales?,consulta,9,54,publican fechas examenes finales,public fech examen final
+La universidad ofrece talleres interesantes para complementar las materias.,positiva,9,75,universidad ofrece talleres interesantes complementar materias,univers ofrec taller interes complement materi
+El proceso para solicitar un certificado es lento y poco claro.,negativa,11,63,proceso solicitar certificado lento poco claro,proces solicit certific lent poc clar
+El personal administrativo respondió amablemente a mis consultas.,positiva,8,65,personal administrativo respondio amablemente consultas,personal administr respondi amabl consult
+El asesor de proyecto dio recomendaciones concretas para mejorar.,positiva,9,65,asesor proyecto dio recomendaciones concretas mejorar,asesor proyect dio recomend concret mejor
+¿Dónde puedo consultar el calendario académico del próximo semestre?,consulta,9,68,puedo consultar calendario academico proximo semestre,pued consult calendari academ proxim semestr
+Los materiales de estudio están organizados y disponibles en la plataforma.,positiva,11,75,materiales estudio organizados disponibles plataforma,material estudi organiz dispon plataform
+La docente explicó el tema con ejemplos claros y fáciles de comprender.,positiva,12,71,docente explico tema ejemplos claros faciles comprender,docent explic tem ejempl clar facil comprend
+Las aulas tienen demasiado ruido y cuesta escuchar al docente.,negativa,10,62,aulas demasiado ruido cuesta escuchar docente,aul demasi ruid cuest escuch docent
+Los avisos sobre cambios de horario se publican demasiado tarde.,negativa,10,64,avisos cambios horario publican demasiado tarde,avis cambi horari public demasi tard
+¿Qué servicios de orientación están disponibles para estudiantes nuevos?,consulta,9,72,servicios orientacion disponibles estudiantes nuevos,servici orient dispon estudi nuev
+¿Dónde puedo revisar las notas del último parcial?,consulta,8,50,puedo revisar notas ultimo parcial,pued revis not ultim parcial
+¿Cómo me registro para participar en la feria de proyectos?,consulta,10,59,registro participar feria proyectos,registr particip feri proyect
+¿A qué hora atiende la oficina de registros académicos?,consulta,9,55,hora atiende oficina registros academicos,hor atiend oficin registr academ
+¿Dónde puedo consultar las aulas asignadas a cada materia?,consulta,9,58,puedo consultar aulas asignadas cada materia,pued consult aul asign cad materi
+El examen incluyó contenidos que no se trabajaron en clase.,negativa,10,59,examen incluyo contenidos no trabajaron clase,exam inclu conten no_trabaj clas
+El equipo docente coordinó las fechas de entrega para evitar cruces.,positiva,11,68,equipo docente coordino fechas entrega evitar cruces,equip docent coordin fech entreg evit cruc
+La plataforma virtual se bloquea cuando intento subir una tarea.,negativa,10,64,plataforma virtual bloquea intento subir tarea,plataform virtual bloque intent sub tare
+El curso de apoyo me ayudó a reforzar los contenidos de matemática.,positiva,12,67,curso apoyo ayudo reforzar contenidos matematica,curs apoy ayud reforz conten matemat
+Las prácticas de laboratorio ayudaron a comprender la teoría.,positiva,9,61,practicas laboratorio ayudaron comprender teoria,practic laboratori ayud comprend teori
+El horario de clases se publicó con anticipación.,positiva,8,49,horario clases publico anticipacion,horari clas public anticip
+¿Hay un procedimiento para justificar una ausencia a un examen?,consulta,10,63,procedimiento justificar ausencia examen,proced justific ausenci exam
+La señalización del campus facilita encontrar los edificios.,positiva,8,60,señalizacion campus facilita encontrar edificios,señaliz campus facilit encontr edifici
+El proceso de inscripción fue rápido y sencillo.,positiva,8,48,proceso inscripcion rapido sencillo,proces inscripcion rap sencill
+La biblioteca tiene libros útiles y espacios cómodos para estudiar.,positiva,10,67,biblioteca libros utiles espacios comodos estudiar,bibliotec libr util espaci comod estudi
+¿Cómo puedo conocer el estado de mi trámite de certificado?,consulta,10,59,puedo conocer tramite certificado,pued conoc tramit certific
+El asesor no revisó los avances del proyecto en la fecha acordada.,negativa,12,66,asesor no reviso avances proyecto fecha acordada,asesor no_revis avanc proyect fech acord
+Las computadoras del laboratorio son lentas y se apagan inesperadamente.,negativa,10,72,computadoras laboratorio lentas apagan inesperadamente,comput laboratori lent apag inesper
+Los docentes comparten bibliografía pertinente para cada unidad.,positiva,8,64,docente comparten bibliografia pertinente cada unidad,docent compart bibliografi pertinent cad unid
+La aplicación móvil muestra horarios que ya fueron modificados.,negativa,9,63,aplicacion movil muestra horarios modificados,aplic movil muestr horari modific
+El personal de biblioteca orientó bien mi búsqueda de información.,positiva,10,66,personal biblioteca oriento bien busqueda informacion,personal bibliotec orient bien busqued inform
+La tutora orientó al grupo durante todo el proyecto.,positiva,9,52,tutora oriento grupo todo proyecto,tutor orient grup tod proyect
+La plataforma permite descargar fácilmente los materiales de clase.,positiva,9,67,plataforma permite descargar facilmente materiales clase,plataform permit descarg facil material clas
+La cafetería tiene filas muy largas y pocas mesas disponibles.,negativa,10,62,cafeteria filas muy largas pocas mesas disponibles,cafeteri fil muy larg poc mes dispon
+Las instrucciones del proyecto fueron confusas y cambiaron varias veces.,negativa,10,72,instrucciones proyecto confusas cambiaron varias veces,instruccion proyect confus cambi vari vec
+¿Qué oficina recibe las solicitudes de convalidación de materias?,consulta,9,65,oficina recibe solicitudes convalidacion materias,oficin recib solicitud convalid materi
+No hay suficientes enchufes para conectar las computadoras en el laboratorio.,negativa,11,77,no suficientes enchufes conectar computadoras laboratorio,no_suficient enchuf conect comput laboratori
+¿Qué debo hacer si olvidé mi código de estudiante?,consulta,9,50,debo hacer olvide codigo estudiante,deb hac olvid codig estudi
+¿Dónde se publican las convocatorias para ayudantías universitarias?,consulta,8,68,publican convocatorias ayudantias universitarias,public convocatori ayudanti universitari
+¿A quién debo escribir si tengo dudas sobre mi inscripción?,consulta,10,59,debo escribir dudas inscripcion,deb escrib dud inscripcion
+El profesor no explicó los criterios utilizados para calificar el trabajo.,negativa,11,74,profesor no explico criterios utilizados calificar trabajo,profesor no_explic criteri utiliz calific trabaj
+La atención en secretaría fue cordial y eficiente.,positiva,8,50,atencion secretaria cordial eficiente,atencion secretari cordial eficient
+El docente cambió la fecha del examen sin avisar con suficiente tiempo.,negativa,12,71,docente cambio fecha examen sin avisar suficiente tiempo,docent cambi fech exam sin_avis suficient tiemp
+El aula virtual envía recordatorios oportunos de las entregas.,positiva,9,62,aula virtual envia recordatorios oportunos entregas,aul virtual envi recordatori oportun entreg
+¿Quién puede orientarme para elegir las materias del siguiente semestre?,consulta,10,72,puede orientarme elegir materias siguiente semestre,pued orient eleg materi siguient semestr
+El laboratorio no tiene suficientes equipos para todos los estudiantes.,negativa,10,71,laboratorio no suficientes equipos estudiantes,laboratori no_suficient equip estudi
+El aula está sucia y varias luces no funcionan.,negativa,9,47,aula sucia varias luces no funcionan,aul suci vari luc no_funcion
+La clase comenzó tarde porque el aula asignada estaba ocupada.,negativa,10,62,clase comenzo tarde aula asignada ocupada,clas comenz tard aul asign ocup
+El laboratorio de informática tiene software actualizado.,positiva,7,57,laboratorio informatica software actualizado,laboratori informat softwar actualiz
+¿Cómo solicito una constancia de estudiante regular?,consulta,7,52,solicito constancia estudiante regular,solicit constanci estudi regul
+¿Cuál es el procedimiento para solicitar revisión de una calificación?,consulta,10,70,procedimiento solicitar revision calificacion,proced solicit revision calif
+¿Cómo puedo cambiar de grupo en una asignatura?,consulta,8,47,puedo cambiar grupo asignatura,pued cambi grup asignatur
+El trámite de certificado se completó antes de la fecha prevista.,positiva,11,65,tramite certificado completo fecha prevista,tramit certific complet fech previst
+Las calificaciones todavía no aparecen aunque pasó el plazo anunciado.,negativa,10,70,calificaciones todavia no aparecen aunque paso plazo anunciado,calif todavi no_aparec aunqu pas plaz anunci
+¿Qué horario tiene el laboratorio durante el fin de semana?,consulta,10,59,horario laboratorio fin semana,horari laboratori fin seman
+¿Dónde encuentro la guía para elaborar el proyecto de grado?,consulta,10,60,encuentro guia elaborar proyecto grado,encuentr gui elabor proyect grad
+En secretaría nadie respondió durante varios días a mi solicitud.,negativa,10,65,secretaria nadie respondio varios dias solicitud,secretari nadi respondi vari dias solicitud
+¿Cómo puedo recuperar la contraseña de la plataforma virtual?,consulta,9,61,puedo recuperar contraseña plataforma virtual,pued recuper contraseñ plataform virtual
+Los materiales de la asignatura están desactualizados.,negativa,7,54,materiales asignatura desactualizados,material asignatur desactualiz
+El sistema de inscripción en línea ahorró mucho tiempo.,positiva,9,55,sistema inscripcion linea ahorro mucho tiempo,sistem inscripcion line ahorr much tiemp
+El sistema de seguimiento académico muestra claramente mis notas.,positiva,9,65,sistema seguimiento academico muestra claramente notas,sistem seguimient academ muestr clar not
+¿Dónde se informa sobre las prácticas profesionales disponibles?,consulta,8,64,informa practicas profesionales disponibles,inform practic profesional dispon
+El portal muestra mensajes de error al consultar el historial académico.,negativa,11,72,portal muestra mensajes error consultar historial academico,portal muestr mensaj error consult historial academ
+No puedo completar la inscripción porque el sistema muestra un error.,negativa,11,69,no puedo completar inscripcion sistema muestra error,no_pued complet inscripcion sistem muestr error
+La coordinación no informó qué documentos faltaban en mi expediente.,negativa,10,68,coordinacion no informo documentos faltaban expediente,coordin no_inform document falt expedient
+El formulario de becas no guarda la información ingresada.,negativa,9,58,formulario becas no guarda informacion ingresada,formulari bec no_guard inform ingres
+¿Cómo puedo actualizar mis datos personales en el sistema académico?,consulta,10,68,puedo actualizar datos personales sistema academico,pued actualiz dat personal sistem academ
+El préstamo de libros fue rápido y ordenado.,positiva,8,44,prestamo libros rapido ordenado,prestam libr rap orden
+¿Cuándo se realizará la próxima charla sobre oportunidades de investigación?,consulta,10,76,realizara proxima charla oportunidades investigacion,realiz proxim charl oportun investig
+¿Dónde puedo consultar las fechas de pago de matrícula?,consulta,9,55,puedo consultar fechas pago matricula,pued consult fech pag matricul
+¿Cómo se accede a los materiales de una asignatura en línea?,consulta,11,60,accede materiales asignatura linea,acced material asignatur line
+¿Qué documentos necesito para solicitar una beca universitaria?,consulta,8,63,documentos necesito solicitar beca universitaria,document necesit solicit bec universitari
+¿Cuándo estarán disponibles los horarios del próximo periodo?,consulta,8,61,disponibles horarios proximo periodo,dispon horari proxim period
+¿La universidad ofrece cursos de apoyo en programación?,consulta,8,55,universidad ofrece cursos apoyo programacion,univers ofrec curs apoy program
+La universidad organiza actividades culturales para los estudiantes.,positiva,8,68,universidad organiza actividades culturales estudiantes,univers organiz activ cultural estudi
+El sistema de seguimiento académico muestra notas incorrectas.,negativa,8,62,sistema seguimiento academico muestra notas incorrectas,sistem seguimient academ muestr not incorrect
+La feria de proyectos permitió conocer investigaciones interesantes.,positiva,8,68,feria proyectos permitio conocer investigaciones interesantes,feri proyect permiti conoc investig interes
+La plataforma perdió el archivo que había entregado antes del cierre.,negativa,11,69,plataforma perdio archivo entregado cierre,plataform perdi archiv entreg cierr
+El profesor publicó las calificaciones dentro del plazo establecido.,positiva,9,68,profesor publico calificaciones dentro plazo establecido,profesor public calif dentr plaz establec
+La conexión a internet se corta constantemente durante las clases.,negativa,10,66,conexion internet corta constantemente clases,conexion internet cort constant clas
+El sistema rechaza mi pago aunque el banco confirmó la transacción.,negativa,11,67,sistema rechaza pago aunque banco confirmo transaccion,sistem rechaz pag aunqu banc confirm transaccion
+Las clases combinan teoría y práctica de manera equilibrada.,positiva,9,60,clases combinan teoria practica manera equilibrada,clas combin teori practic maner equilibr
+La señalización del campus es insuficiente para encontrar las oficinas.,negativa,10,71,señalizacion campus insuficiente encontrar oficinas,señaliz campus insuficient encontr oficin
+¿Cuál es el procedimiento para inscribirme en una materia electiva?,consulta,10,67,procedimiento inscribirme materia electiva,proced inscrib materi elect
+La biblioteca no tiene suficientes puestos para estudiar en época de exámenes.,negativa,12,78,biblioteca no suficientes puestos estudiar epoca examenes,bibliotec no_suficient puest estudi epoc examen
