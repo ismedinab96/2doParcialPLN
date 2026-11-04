@@ -1,0 +1,16 @@
+# Bytecode de Python / caché de importaciones
+__pycache__/
+*.py[cod]
+
+# Caché de Jupyter
+.ipynb_checkpoints/
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Sistema / editor
+.DS_Store
+Thumbs.db
+*~
